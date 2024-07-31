@@ -1,0 +1,6 @@
+name: edprison_enchantments
+version: '1.0.1'
+main: me.edprison.abobymotaki.edprison_enchantments.Edprison_enchantments
+api-version: '1.20'
+authors: [abobymotaki]
+description: Enchantments Made using the Edprison Developer API
